@@ -1,0 +1,34 @@
+[
+	{
+		"code": "BR",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 56
+	},
+	{
+		"code": "HK",
+		"value": 1
+	},
+	{
+		"code": "ID",
+		"value": 3
+	},
+	{
+		"code": "IN",
+		"value": 1
+	},
+	{
+		"code": "KR",
+		"value": 19
+	},
+	{
+		"code": "TW",
+		"value": 2
+	},
+	{
+		"code": "VN",
+		"value": 3
+	}
+]
